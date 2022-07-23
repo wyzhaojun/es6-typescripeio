@@ -2,7 +2,7 @@
 
 ## wyzhaojun
 
-> ecmascript6+与typescripe
+ecmascript6<small>+</small>与typescripe
 
 [Get Started](README.md)
 
