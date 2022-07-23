@@ -1,6 +1,6 @@
 <img src="_media/logo.jpeg" style="width:80px;height:70px;border-radius:60px">
 
-wyzhaojun
+## wyzhaojun
 
 > ecmascript6+与typescripe
 
